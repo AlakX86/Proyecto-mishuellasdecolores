@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'TheSalvador';
+    src: url(TheSalvador.otf);
+}
+
+*{
+    font-family: "TheSalvador";
+    background-color: #f8f0e6;
+    text-align: center;
+    padding: 0.6em;
+}
+
+.general{
+    border:solid #886a42 0.6rem;
+    border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -moz-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -webkit-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+}
+.bolsasfoto1{
+    animation-delay: 0.5s;
+}
+    
+.bolsasfoto2{
+    animation-delay: 1s;
+}
+    
+.bolsasfoto3{
+    animation-delay: 1.5s;
+}

@@ -1,0 +1,54 @@
+@font-face{
+    font-family: 'TheSalvador' ;
+    src: url(TheSalvador.otf);
+}
+
+body{
+    padding: 0rem;
+    margin: 1rem 8rem 2rem 8rem;    
+    background-color: rgb(51, 50, 50);
+    color: wheat;
+    /*background-color: #f8f0e6; */
+    font-family: "TheSalvador";
+}
+
+.general{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.titulo{
+    color: wheat;
+    font-size: 5em;
+    margin-bottom: 1em;
+}
+
+
+
+.textodiv{
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+.texto{
+    font-size: 1.5em;
+}
+
+.fotoiz{
+    float: left;
+    margin: 0em 0.5em 0em 1em;
+}
+
+.fotoder{
+    margin: 0em 1em 0em 0.5em;
+    float: right;
+}
+
+.fotofin{
+    text-align: center;
+    margin: 5rem 0 0 0;
+}
+

@@ -1,0 +1,90 @@
+@font-face{
+    font-family: 'TheSalvador';
+    src: url(TheSalvador.otf);
+}
+
+*{
+    font-family: "TheSalvador";
+    background-color: #f8f0e6;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.general{
+    border:solid #886a42 0.6rem;
+    border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -moz-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -webkit-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+}
+
+.presentacion1{
+    font-size: 1.5em;
+}
+
+.scrapfoto1{
+    animation-delay: 0.5s;
+}
+    
+.scrapfoto2{
+    animation-delay: 1s;
+}
+    
+.scrapfoto3{
+    animation-delay: 1.5s;
+}
+
+.scrapfoto4{
+    animation-delay: 2s;
+}
+    
+.scrapfoto5{
+    animation-delay: 2.5s;
+}
+    
+.scrapfoto6{
+    animation-delay: 3s;
+}
+
+.scrapfoto7{
+    animation-delay: 3.5s;
+}
+    
+.scrapfoto8{
+    animation-delay: 4s;
+}
+
+.scrapfoto9{
+    animation-delay: 4.5s;
+}
+    
+.scrapfoto10{
+    animation-delay: 5s;
+}
+    
+.scrapfoto11{
+    animation-delay: 5.5s;
+}
+
+.scrapfoto12{
+    animation-delay: 6s;
+}
+
+.scrapfoto13{
+    animation-delay: 6.5s;
+}
+    
+.scrapfoto14{
+    animation-delay: 7s;
+}
+
+.scrapfoto15{
+    animation-delay: 7.5s;
+}
+    
+.scrapfoto16{
+    animation-delay: 8s;
+}
+    
+.scrapfoto17{
+    animation-delay: 8.5s;
+}

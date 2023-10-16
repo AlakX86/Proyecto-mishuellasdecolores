@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'TheSalvador';
+    src: url(TheSalvador.otf);
+}
+
+*{
+    font-family: "TheSalvador";
+    background-color: #f8f0e6;
+    text-align: center;
+    padding: 0.5em;
+    color: #886a42;
+}
+
+.presentacion1{
+    font-size: 1.5em;
+}
+
+.general{
+    border:solid #886a42 0.6rem;
+    border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -moz-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -webkit-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+}
+
+.Ilustracionesfoto1{
+    animation-delay: 0.5s;
+}
+    
+.Ilustracionesfoto2{
+    animation-delay: 1s;
+}
+    
+.Ilustracionesfoto3{
+    animation-delay: 1.5s;
+}
+
+.Ilustracionesfoto4{
+    animation-delay: 2s;
+}
+    
+.Ilustracionesfoto5{
+    animation-delay: 2.5s;
+}
+    
+.Ilustracionesfoto6{
+    animation-delay: 3s;
+}
+
+.Ilustracionesfoto7{
+    animation-delay: 3.5s;
+}
+    
+.Ilustracionesfoto8{
+    animation-delay: 4s;
+}

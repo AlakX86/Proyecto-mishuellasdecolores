@@ -1,0 +1,78 @@
+@font-face{
+    font-family: 'TheSalvador';
+    src: url(TheSalvador.otf);
+}
+
+*{
+    font-family: "TheSalvador";
+    background-color: #f8f0e6;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.presentacion1{
+    font-size: 1.5em;
+}
+
+.general{
+    border:solid #886a42 0.6rem;
+    border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -moz-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -webkit-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+}
+
+.dioramasfoto1{
+    animation-delay: 0.5s;
+}
+    
+.dioramasfoto2{
+    animation-delay: 1s;
+}
+    
+.dioramasfoto3{
+    animation-delay: 1.5s;
+}
+
+.dioramasfoto4{
+    animation-delay: 2s;
+}
+    
+.dioramasfoto5{
+    animation-delay: 2.5s;
+}
+    
+.dioramasfoto6{
+    animation-delay: 3s;
+}
+
+.dioramasfoto7{
+    animation-delay: 3.5s;
+}
+    
+.dioramasfoto8{
+    animation-delay: 4s;
+}
+
+.dioramasfoto9{
+    animation-delay: 4.5s;
+}
+    
+.dioramasfoto10{
+    animation-delay: 5s;
+}
+    
+.dioramasfoto11{
+    animation-delay: 5.5s;
+}
+
+.dioramasfoto12{
+    animation-delay: 6s;
+}
+
+.dioramasfoto13{
+    animation-delay: 6.5s;
+}
+
+.dioramasfoto14{
+    animation-delay: 7s;
+}

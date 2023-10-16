@@ -1,0 +1,124 @@
+@font-face{
+    font-family: 'TheSalvador';
+    src: url(TheSalvador.otf);
+}
+
+*{
+    font-family: "TheSalvador";
+    background-color: #f8f0e6;
+    text-align: center;
+    padding: 0.6em;
+}
+
+.general{
+    border:solid #886a42 0.6rem;
+    border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -moz-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+    -webkit-border-radius: 1.188rem 1.188rem 1.188rem 1.188rem;
+}
+
+.Tazasfoto1{
+    animation-delay: 0.5s;
+}
+
+.Tazasfoto2{
+    animation-delay: 1s;
+}
+
+.Tazasfoto3{
+    animation-delay: 1.5s;
+}
+
+.Tazasfoto4{
+    animation-delay: 2s;
+}
+
+.Tazasfoto5{
+    animation-delay: 2.5s;
+}
+
+.Tazasfoto6{
+    animation-delay: 3s;
+}
+.Tazasfoto7{
+    animation-delay: 3.5s;
+}
+
+.Tazasfoto8{
+    animation-delay: 4s;
+}
+
+.Tazasfoto9{
+    animation-delay: 4.5s;
+}
+.Tazasfoto10{
+    animation-delay: 5s;
+}
+
+.Tazasfoto11{
+    animation-delay: 5.5s;
+}
+
+.Tazasfoto12{
+    animation-delay: 6s;
+}
+.Tazasfoto13{
+    animation-delay: 6.5s;
+}
+
+.Tazasfoto14{
+    animation-delay: 7s;
+}
+
+.Tazasfoto15{
+    animation-delay: 7.5s;
+}
+.Tazasfoto16{
+    animation-delay: 8s;
+}
+
+.Tazasfoto17{
+    animation-delay: 8.5s;
+}
+
+.Tazasfoto18{
+    animation-delay: 9s;
+}
+.Tazasfoto19{
+    animation-delay: 9.5s;
+}
+
+.Tazasfoto20{
+    animation-delay: 10s;
+}
+
+.Tazasfoto21{
+    animation-delay: 10.5s;
+}
+.Tazasfoto22{
+    animation-delay: 11s;
+}
+
+.Tazasfoto23{
+    animation-delay: 11.5s;
+}
+
+.Tazasfoto24{
+    animation-delay: 12s;
+}
+
+.Tazasfoto25{
+    animation-delay: 12.5s;
+}
+
+.Tazasfoto26{
+    animation-delay: 13s;
+}
+
+.Tazasfoto27{
+    animation-delay: 13.5s;
+}
+
+.Tazasfoto28{
+    animation-delay: 14s;
+}
